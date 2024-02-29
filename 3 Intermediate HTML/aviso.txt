@@ -1,0 +1,10 @@
+Foquei apenas nas aulas em que eu tinha uma vaga dúvida.
+No caso desse módulo, a aque citava o atrbuto draggable,
+do elemento <a>, o qual permite arratar o conteúdo 
+atribuído pela tela. Além desse atributo, há outro
+chamado start, que é definido em uma lista ordenada e,
+sendo assim, caso coloquemos "3" nesse atributo, a 
+lista ordenada começará pelo número 3. Outro atributo
+interessante é o alt, o qual se aplica à tag amg para
+trazer acessibilidade ao site, descrevendo uma imagem
+para pessoas que possuem deficiências físicas.

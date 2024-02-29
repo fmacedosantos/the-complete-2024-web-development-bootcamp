@@ -1,0 +1,21 @@
+display: block: Elementos com display: block são exibidos como blocos retangulares 
+distintos que geralmente ocupam toda a largura disponível do elemento pai. 
+Eles começam em uma nova linha e podem ter largura (width), altura (height), 
+margens (margin), preenchimento (padding) e bordas (border) definidos. 
+Exemplos comuns de elementos de bloco incluem <div>, <p>, <h1> - <h6>, <ul>, <ol>, 
+entre outros.
+
+display: inline: Elementos com display: inline são exibidos sem iniciar uma nova 
+linha e fluem com o conteúdo em linha. Eles geralmente ignoram as propriedades de
+largura (width) e altura (height``) e só ocupam o espaço necessário para o seu 
+conteúdo. Margens horizontais, preenchimento e bordas são aplicáveis, mas as 
+propriedades verticais não têm efeito. Exemplos incluem <span>, <a>, <strong>, <em>`, 
+entre outros elementos de texto.
+
+display: inline-block: Combina as características de elementos inline e block. 
+Elementos com display: inline-block fluem com o conteúdo em linha, mas também 
+podem ter largura (width), altura (height), margens (margin), preenchimento 
+(padding) e bordas (border) definidos. Eles ocupam apenas o espaço necessário 
+para o seu conteúdo, mas podem ser dimensionados e estilizados como elementos de 
+bloco. Isso é útil quando você deseja elementos em linha que possam ter dimensões 
+e serem estilizados como blocos.

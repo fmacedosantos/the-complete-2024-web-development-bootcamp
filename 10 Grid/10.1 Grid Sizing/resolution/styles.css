@@ -1,0 +1,6 @@
+.grid-container {
+    display: grid;
+   grid-template-columns: auto 400px minmax(200px, 500px);
+   grid-template-rows: repeat(2, 1fr) 2fr 50px;
+   }
+ 

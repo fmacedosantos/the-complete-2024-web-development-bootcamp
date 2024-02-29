@@ -1,0 +1,7 @@
+flex: 1 1 0;
+grow shrink basis
+- capacidade de aumentar (padrão: 0)
+- capacidade de diminuir (padrão: 1)
+- largura
+para ter o mesmo resultado do código acima, podemos escrever:
+flex: 1;

@@ -1,0 +1,19 @@
+Apenas coisas importantes:
+static: posição padrão do elemento.
+modificações de localização não
+funcionam.
+
+relative: relativo à posição padrão.
+é possível mover o elemento, o qual será
+movido em relação à sua localização padrão.
+
+absolute: modificações de localização serão
+realizadas em relação ao pai que possuir sua
+position diferente de static (padrão). Quando
+não houver, será a parte de cima e esquerda da
+página web.
+z-index seria como a terceira dimensão,
+este é uma parte importante de um elemento
+com o "position" definido como "absolute".
+
+fixed: posição relativa à página web.
